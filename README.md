@@ -1,2 +1,3 @@
-# Data-Structures-and-Algorithms
+# Data Structures and Algorithms
+
 Solved tasks on data structures, algorithms, graph theory and NetworkX
